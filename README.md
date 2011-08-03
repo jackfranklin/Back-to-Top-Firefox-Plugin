@@ -36,3 +36,6 @@ Raise an issue here or tweet @Jack_Franklin
 3. Updated project home page to be the Github Repo URL
 
 ###v0.1 - initial release
+
+#Thanks & Credits
+Thanks to Robert Nyman, who's guide posted here: http://blog.mozilla.com/addons/2009/01/28/how-to-develop-a-firefox-extension/ took me from knowing nothing about FF development to releasing a plugin in just a couple of hours. 
