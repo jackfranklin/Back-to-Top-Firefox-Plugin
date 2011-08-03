@@ -28,3 +28,11 @@ I wrote this in FF5.0.1. It's a very basic plugin so I can't see how older versi
 
 #Questions?
 Raise an issue here or tweet @Jack_Franklin
+
+#ChangeLog
+###v0.2:
+1. New, not quite so horrendous icon added.
+2. Added the .xpi to Github repo
+3. Updated project home page to be the Github Repo URL
+
+###v0.1 - initial release

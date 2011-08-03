@@ -5,11 +5,11 @@
 	<Description about="urn:mozilla:install-manifest">
 		<em:id>backtotop@jackfranklin.co.uk</em:id>
 		<em:name>Back to Top Button</em:name>
-		<em:version>0.1</em:version>
+		<em:version>0.2</em:version>
 		<em:type>2</em:type>
 		<em:creator>Jack Franklin</em:creator>
-		<em:description>Creates a button for going back to the top of a web page.</em:description>
-		<em:homepageURL>http://www.jackfranklin.co.uk/</em:homepageURL>
+		<em:description>Creates a button for going back to the top of a web page which sits in your add-ons / status bar.</em:description>
+		<em:homepageURL>https://github.com/jackfranklin/Back-to-Top-Firefox-Plugin</em:homepageURL>
 		
 
 		<em:targetApplication>
