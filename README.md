@@ -5,19 +5,19 @@ So, I sat down, learned how to make Firefox addons, and here I am!
 
 This plugin is open source, do whatever you like with it, but I ask that you link back here and don't try to pass it off completely as your own!
 
-#To Compile
-Grab it yourself and cd into the addon/ folder, and then run this command in Terminal (Mac & Linux users):
+#To Install and Use
+Download the repository, and open the .xpi file in Firefox. It will install the plugin from there
 
-    zip -r LinkTargetFinder.xpi *
+#To Compile
+Clone the repo yourself and cd into the addon/ folder, and then run this command in Terminal (Mac & Linux users):
+
+    zip -r BackToTop.xpi *
 
 Windows users can do it by:
 
     Send To > Compressed (Zipped) Folder. Rename it to .xpi instead of .zip
 
-Very soon I will host the .xpi on here, and I mean very, very soon.
-
-#To Install
-Head into FF and go File->Open and find your .xpi file.
+To install it, see above step.
 
 #Support
 I wrote this in FF5.0.1. It's a very basic plugin so I can't see how older versions would struggle. If you try it in anything other than 5.0.1 and it works or has issues, let me know so I can update this bit.
