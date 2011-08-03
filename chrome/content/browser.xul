@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://backtotop/skin/skin.css" type="text/css"?> 
+<!DOCTYPE backtotop SYSTEM "chrome://backtotop/locale/translations.dtd">
+<overlay id="sample" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+		<script src="backtotop.js" />
+	
+		
+		<statusbar id="status-bar">
+			<statusbarpanel id="back-to-top-icon" class="statusbarpanel-iconic" src="chrome://backtotop/skin/status-bar.png" tooltiptext="&runbacktotop;" onclick="backToTop.run()" />
+		</statusbar>
+	
+</overlay>

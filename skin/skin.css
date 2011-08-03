@@ -1,0 +1,7 @@
+#back-to-top-icon {
+  width: 25px; margin: 0 5px;
+}
+
+#back-to-top-icon:hover {
+  cursor: pointer;
+}

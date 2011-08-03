@@ -1,0 +1,8 @@
+content     backtotop		    chrome/content/
+content     backtotop		    chrome/content/ contentaccessible=yes
+overlay chrome://browser/content/browser.xul chrome://backtotop/content/browser.xul
+
+locale	backtotop	en-US	locale/en-US/
+
+skin	backtotop	classic/1.0	skin/
+style	chrome://global/content/customizeToolbar.xul	chrome://backtotop/skin/skin.css
